@@ -15,7 +15,11 @@ Main https://github.com/Silva0308/JavaCore_HW1/blob/master/src/main/java/ru/gb/M
 <br> Сам конвертер: https://github.com/Silva0308/JavaCore_HW1/tree/master/src/main/java/ru/gb/converter
 <br> Класс декоратора: https://github.com/Silva0308/JavaCore_HW1/blob/master/src/main/java/ru/gb/Decorator.java
  
-Написан Докерфайл: <br> 
+Написан Докерфайл: <br> https://github.com/Silva0308/JavaCore_HW1/blob/master/src/main/dockerfile
 
+Собрала Docker с помощью команды:
 
+**`docker build . -t converter:v1.1`**
+
+Запустила контейнер:  **`docker run converter:v1.1`**
 
